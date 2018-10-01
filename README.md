@@ -127,6 +127,7 @@
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 - [Alligator.IO React Page](https://alligator.io/react/)
 - [Egghead.io](https://egghead.io/browse/frameworks/react)
+-[Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 
 ## Serverless
 
